@@ -1,8 +1,7 @@
 package koschei.models;
 
-import org.springframework.stereotype.Component;
 
-@Component
+
 public class Island2 {
 
     private Wood3 wood;
